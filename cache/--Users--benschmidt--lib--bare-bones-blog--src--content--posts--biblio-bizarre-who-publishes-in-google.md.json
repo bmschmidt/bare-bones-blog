@@ -1,0 +1,13145 @@
+{
+	"metadata": {
+		"title": "Biblio bizarre: who publishes in Google Books",
+		"date": "2014-04-03T17:42:00.002Z",
+		"draft": false,
+		"url": "/2014/04/biblio-bizarre-who-publishes-in-google.html",
+		"tags": ["Ngrams"]
+	},
+	"document": {
+		"pandoc-api-version": [1, 22, 1],
+		"meta": {
+			"date": {
+				"t": "MetaInlines",
+				"c": [
+					{
+						"t": "Str",
+						"c": "2014-04-03T13:42:00.002-04:00"
+					}
+				]
+			},
+			"draft": {
+				"t": "MetaBool",
+				"c": false
+			},
+			"tags": {
+				"t": "MetaList",
+				"c": [
+					{
+						"t": "MetaInlines",
+						"c": [
+							{
+								"t": "Str",
+								"c": "Ngrams"
+							}
+						]
+					}
+				]
+			},
+			"title": {
+				"t": "MetaInlines",
+				"c": [
+					{
+						"t": "Str",
+						"c": "Biblio"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "bizarre:"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "who"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "publishes"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Books"
+					}
+				]
+			},
+			"url": {
+				"t": "MetaInlines",
+				"c": [
+					{
+						"t": "Str",
+						"c": "/2014/04/biblio-bizarre-who-publishes-in-google.html"
+					}
+				]
+			}
+		},
+		"blocks": [
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "Here’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "little"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "irony"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I’ve"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "been"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "meaning"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "post."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Large"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "scale"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "book"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "digitization"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "makes"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "tools"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "like"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Ngrams"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "possible;"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "but"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "also"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "makes"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "tools"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "like"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Ngrams"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "obsolete"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "future."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "It"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "changes"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "what"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Quoted",
+						"c": [
+							{
+								"t": "DoubleQuote"
+							},
+							[
+								{
+									"t": "Str",
+									"c": "book"
+								}
+							]
+						]
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "ways"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "makes"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "selection"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "criteria"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Ngrams—if"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "made"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "into"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "print,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "must"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "have _some _significance—completely"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "meaningless."
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "So"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "as"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "interesting"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "as"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Ngrams"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "all"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sorts"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "purposes,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "seems"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "might"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "always"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "end"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "right"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2008."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "(I"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "could"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "have"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sworn"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2012"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "update"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "included"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "through"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2011"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "some"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "collections;"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "but"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "all"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "seem"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "end"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2008"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "now.)"
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "Lo:"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Ngram"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "chart"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "three"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "major"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "publishers,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "showing"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "percentage"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "times"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "each"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "mentioned"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "compared"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "all"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "other"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "words"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "corpus:"
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Link",
+						"c": [
+							["", [], []],
+							[
+								{
+									"t": "Image",
+									"c": [
+										["", [], []],
+										[],
+										[
+											"http://4.bp.blogspot.com/-60TbnGWITW4/UyeJKC2YiGI/AAAAAAAAEUA/X2R978sF3F4/s1600/Screen+Shot+2014-03-17+at+7.45.21+PM.png",
+											""
+										]
+									]
+								}
+							],
+							[
+								"http://4.bp.blogspot.com/-60TbnGWITW4/UyeJKC2YiGI/AAAAAAAAEUA/X2R978sF3F4/s1600/Screen+Shot+2014-03-17+at+7.45.21+PM.png",
+								""
+							]
+						]
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "This,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "if"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "anything,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "massively"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "understates"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "importance"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "BiblioBazaar"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Books"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2008:"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "using"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2009"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "data,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "here’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "percentage"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "all"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "books"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "(rather"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "than"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "words)"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "mentioning"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "each"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "those"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "three"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "presses:"
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Link",
+						"c": [
+							["", [], []],
+							[
+								{
+									"t": "Image",
+									"c": [
+										["", [], []],
+										[],
+										[
+											"http://1.bp.blogspot.com/-DvKleowU3Iw/UznZ_M07r8I/AAAAAAAAEWA/pjVnvF0WzJY/s1600/BiblioBizarre.png",
+											""
+										]
+									]
+								}
+							],
+							[
+								"http://1.bp.blogspot.com/-DvKleowU3Iw/UznZ_M07r8I/AAAAAAAAEWA/pjVnvF0WzJY/s1600/BiblioBizarre.png",
+								""
+							]
+						]
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "This"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "doesn’t"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "mean"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "35%"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "all"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "books"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2000"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "are"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Macmillan,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "because"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "other"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "books"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "will"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "cite"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Macmillan"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "footnotes."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "bet"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "almost"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "every"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "university"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "press"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "book"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "humanities"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "social"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sciences"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "cites"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Harvard"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "University"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Press"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "1999."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "But"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "given"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "BiblioBazaar"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "barely"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "existed"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "before"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2008,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "hardly"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "any"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "non-BiblioBazaar"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "books"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "would"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "mention"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "company"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2008."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "So"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "apparently,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "BiblioBazaar"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "almost"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "45%"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2008"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sample"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Ngrams."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "That’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "incredible."
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "How"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "did"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Quoted",
+						"c": [
+							{
+								"t": "DoubleQuote"
+							},
+							[
+								{
+									"t": "Str",
+									"c": "BiblioBazaar"
+								}
+							]
+						]
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "supplant"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "largest"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "presses"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "just"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "one"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "year?"
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "This"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "has"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "messed"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "up"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "other"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sources:"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Link",
+						"c": [
+							["", [], []],
+							[
+								{
+									"t": "Str",
+									"c": "Publisher’s"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "Weekly"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "reported"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "in"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "2010"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "on"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "how"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "BiblioBazaar"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "leapt"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "to"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "the"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "top"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "of"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "the"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "Bowker’s"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "charts"
+								}
+							],
+							[
+								"http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/42850-bibliobazaar-how-a-company-produces-272-930-books-a-year.html",
+								""
+							]
+						]
+					},
+					{
+						"t": "Str",
+						"c": "."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "In"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "company’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "president"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "asked"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "if"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "they"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "really"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "published"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "270,000"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "books"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2009:"
+					}
+				]
+			},
+			{
+				"t": "BlockQuote",
+				"c": [
+					{
+						"t": "Para",
+						"c": [
+							{
+								"t": "Quoted",
+								"c": [
+									{
+										"t": "DoubleQuote"
+									},
+									[
+										{
+											"t": "Str",
+											"c": "If"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "by"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Quoted",
+											"c": [
+												{
+													"t": "SingleQuote"
+												},
+												[
+													{
+														"t": "Str",
+														"c": "produce"
+													}
+												]
+											]
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "you"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "mean"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "create"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "a"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "cover"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "file"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "that"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "will"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "print"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "at"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "multiple"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "POD"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "vendors,"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "a"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "book"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "block"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "that"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "will"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "print"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "at"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "multiple"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "POD"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "vendors,"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "and"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "metadata"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "to"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "sell"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "that"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "book"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "in"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "global"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "sales"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "channels,"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "then"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "yes,"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "we"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "did"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "produce"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "that"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "many"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "titles,"
+										}
+									]
+								]
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "said"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "Mitchell"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "Davis,"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "president"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "of"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "BiblioLife,"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "parent"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "company"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "of"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "BiblioBazaar."
+							}
+						]
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "And"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "what"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sort"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "books"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "are"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "they?"
+					}
+				]
+			},
+			{
+				"t": "BlockQuote",
+				"c": [
+					{
+						"t": "Para",
+						"c": [
+							{
+								"t": "Str",
+								"c": "All"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "of"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "the"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "company’s"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "content"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "is"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "in"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "the"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "public"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "domain,"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "and"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "are"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "basically"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Quoted",
+								"c": [
+									{
+										"t": "DoubleQuote"
+									},
+									[
+										{
+											"t": "Str",
+											"c": "historical"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "reprints,"
+										}
+									]
+								]
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "Davistold "
+							},
+							{
+								"t": "Emph",
+								"c": [
+									{
+										"t": "Str",
+										"c": "PW"
+									}
+								]
+							},
+							{
+								"t": "Str",
+								"c": ","
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "with"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "foreign"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "language"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "books,"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "and"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "their"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Quoted",
+								"c": [
+									{
+										"t": "DoubleQuote"
+									},
+									[
+										{
+											"t": "Str",
+											"c": "added"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "layers"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "of"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "complexity"
+										}
+									]
+								]
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "the"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "fastest"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "growing"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "category"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "of"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "books."
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Quoted",
+								"c": [
+									{
+										"t": "DoubleQuote"
+									},
+									[
+										{
+											"t": "Str",
+											"c": "Dealing"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "with"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "out-of-copyright"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "materials"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "lets"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "us"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "leverage"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "our"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "knowledge"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "and"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "relationships"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "in"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "the"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "global"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "bookselling"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "industry"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "more"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "easily"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "as"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "we"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "build"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "out"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "what"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "is"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "shaping"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "up"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "to"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "be"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "a"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "pretty"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "killer"
+										},
+										{
+											"t": "Space"
+										},
+										{
+											"t": "Str",
+											"c": "platform,"
+										}
+									]
+								]
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "he"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "noted."
+							}
+						]
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "In"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "other"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "words,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "entire"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "19th"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "century"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sprang"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "back"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "into"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "print."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "You"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "can"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "see"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "this"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Ngrams"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "charts"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "pretty"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "clearly:"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Quoted",
+						"c": [
+							{
+								"t": "DoubleQuote"
+							},
+							[
+								{
+									"t": "Str",
+									"c": "thou"
+								}
+							]
+						]
+					},
+					{
+						"t": "Str",
+						"c": ","
+					},
+					{
+						"t": "Quoted",
+						"c": [
+							{
+								"t": "DoubleQuote"
+							},
+							[
+								{
+									"t": "Str",
+									"c": "thee"
+								}
+							]
+						]
+					},
+					{
+						"t": "Str",
+						"c": ","
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and”thy,”"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "example,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "shoot"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "up"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "fivefold"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2007-2008"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "after"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "centuries"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "decline."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I’ve"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "noticed"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "this"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "before,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "but"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "now"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I’m"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "inclined"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "think"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "most"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "can"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "be"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "attributed"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "this"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "one"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "company."
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "Or"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Quoted",
+						"c": [
+							{
+								"t": "DoubleQuote"
+							},
+							[
+								{
+									"t": "Link",
+									"c": [
+										["", [], []],
+										[
+											{
+												"t": "Str",
+												"c": "railway"
+											}
+										],
+										[
+											"https://books.google.com/ngrams/graph?content=railway&year_start=1850&year_end=2008&corpus=15&smoothing=0&share=&direct_url=t1%3B%2Crailway%3B%2Cc0",
+											""
+										]
+									]
+								},
+								{
+									"t": "Str",
+									"c": "."
+								}
+							]
+						]
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "This"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "isn’t"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "qualitatively"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "different"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "from"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "other"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "shifts"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Ngrams"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "database:"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Link",
+						"c": [
+							["", [], []],
+							[
+								{
+									"t": "Str",
+									"c": "gaps"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "at"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "1922"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "as"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "the"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "library"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "composition"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "shifts,"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "for"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "example"
+								}
+							],
+							[
+								"http://sappingattention.blogspot.com/2011/01/digital-history-and-copyright-black.html",
+								""
+							]
+						]
+					},
+					{
+						"t": "Str",
+						"c": "."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "But"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "quantitatively"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "different"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "order."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "The"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "complete"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "immateriality"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "books"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "post-2008"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "means"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "minor"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "decisions"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "about"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "whether"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "an"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "e-book"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "actually"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "exists"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "or"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "not"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "can"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "cause"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "shifts"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "40%"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "corpus."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "spent"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "some"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "time"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "looking"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "words"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "shift"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "at"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "1922"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "break,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "though"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "they"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "do"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "exist"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "(it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "seems"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "loss"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Harvard"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "drops"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "most"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "medical"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "terms,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "example),"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "shifts"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "are"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "few"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "percentage"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "points:"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "nothing"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "anyone"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "should"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "be"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "taking"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "seriously"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "noisy"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "dataset"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "anyway."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": " But"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "half"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "corpus:"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "something"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "else"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "entirely."
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "Among"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "other"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "strange"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "things,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "means"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Ngrams"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "almost"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "certainly"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "at"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "its"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "most"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "useful"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Emph",
+						"c": [
+							{
+								"t": "Str",
+								"c": "right"
+							},
+							{
+								"t": "Space"
+							},
+							{
+								"t": "Str",
+								"c": "now;"
+							}
+						]
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "with"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "each"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "year,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "gets"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "further"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "further"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "out"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "date,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "will"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "be"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "extremely"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "hard"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "update"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "without"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "making"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "lot"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "extremely"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "hard"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "choices."
+					}
+				]
+			},
+			{
+				"t": "Header",
+				"c": [
+					2,
+					[
+						"quick-postlude-i-should-hasten-to-say-that-everyone-involved-with-ngrams-is-aware-of-all-the-class-of-problems-like-this-and-that-the-quick-credibility-check-for-anyone-citing-ngrams-is-that-they-dont-use-the-post-2000-books-as-any-sort-of-evidence.-theres-a-reason-the-default-settings-stop-in-2000-and-that-the-michel-et-al-paper-urges-you-not-to-use-the-newer-data.-but-i-hadnt-realized-before-how-different-2008-was-in-particular.",
+						[],
+						[]
+					],
+					[
+						{
+							"t": "Str",
+							"c": "Quick"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "postlude:"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "I"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "should"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "hasten"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "to"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "say"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "that"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "everyone"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "involved"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "with"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "Ngrams"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "is"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "aware"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "of"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "all"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "the"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "class"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "of"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "problems"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "like"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "this,"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "and"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "that"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "the"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "quick"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "credibility-check"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "for"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "anyone"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "citing"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "Ngrams"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "is"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "that"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "they"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "don’t"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "use"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "the"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "post-2000"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "books"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "as"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "any"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "sort"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "of"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "evidence."
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "There’s"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "a"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "reason"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "the"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "default"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "settings"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "stop"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "in"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "2000,"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "and"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "that"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "the"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "Michel"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "et"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "al"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "paper"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "urges"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "you"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "not"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "to"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "use"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "the"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "newer"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "data."
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "But"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "I"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "hadn’t"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "realized"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "before"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "how"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "different"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "2008"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "was,"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "in"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "particular."
+						}
+					]
+				]
+			},
+			{
+				"t": "Header",
+				"c": [
+					3,
+					["comments", [], []],
+					[
+						{
+							"t": "Str",
+							"c": "Comments:"
+						}
+					]
+				]
+			},
+			{
+				"t": "Header",
+				"c": [
+					4,
+					["wow.-i-knew-they-were-an-enormous-problem-but-i-h", [], []],
+					[
+						{
+							"t": "Str",
+							"c": "Wow."
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "I"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "knew"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "they"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "were"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "an"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "enormous"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "problem,"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "but"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "I"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "h…"
+						}
+					]
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Link",
+						"c": [
+							["", [], []],
+							[
+								{
+									"t": "Str",
+									"c": "Unknown"
+								}
+							],
+							["https://www.blogger.com/profile/02151663590594341211", "noreply@blogger.com"]
+						]
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "-"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "RawInline",
+						"c": ["html", "<time datetime=\"2014-04-03T14:16:02.193-04:00\">"]
+					},
+					{
+						"t": "Str",
+						"c": "Apr"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "4,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2014"
+					},
+					{
+						"t": "RawInline",
+						"c": ["html", "</time>"]
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "Wow."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "knew"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "they"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "were"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "an"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "enormous"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "problem,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "but"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "hadn’t"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "come"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "close"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "understanding"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "scale"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "challenge"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "they"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "pose."
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "As"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "bad"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "as"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "their"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "polluting"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "data"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "may"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "be,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "there’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "an"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "even"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "more"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "worrisome"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "element"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "their"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "business"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "model."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "The"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "parent"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "company"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "partnered"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "with"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "libraries,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "offering"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "scan"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "their"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "pre-1923"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "titles"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "free"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "exchange"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "digital"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "copies."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "(It’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "been"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "alleged"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "another"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "publisher,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Kessinger"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Press,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "was"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "simply"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "downloading"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "scans"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "repackaging"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "them."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "BiblioBazaar"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "says"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "not"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "what"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "doing."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "have"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "no"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "way"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "evaluate"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "claim.)"
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "What’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "fascinating"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "me"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "these"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "BiblioBazaar"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "editions"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "public"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "domain"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "works"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "are"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "not"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "available"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "be"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "read"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "on"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Books."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Not"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "as"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "full"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "books."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Not"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "as"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "limited"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "numbers"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "pages."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Not"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "even"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "as"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "text"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "snippets."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "They’re"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "simply"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "blank."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "If"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "you"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "want"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "them,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "you’ll"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "have"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "buy"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "them"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "as"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "print-on-demand"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "editions"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "off"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Amazon"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "or"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "another"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "seller."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Now,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "why"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "should"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "be?"
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "Let"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "me"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "offer"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "another"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "general"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "vague"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "observation."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Quite"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "often,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "when"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "there’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "BiblioBazaar"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "edition"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "work,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "can’t"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "seem"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "find"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "fully"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "accessible"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "version"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "on"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Books."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "And"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "few"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "cases,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I’ve"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "been"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "using"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "scanned"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "pre-1923"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "edition"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "work"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "research,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "returned"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "find"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "no"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "longer"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "accessible,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "noticed"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "there"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "now"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "BiblioBazaar"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "edition."
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "That’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "not"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "dispositive."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Books"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "screwy"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "lot"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "ways."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "But"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "there’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "track"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "record"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "other"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "publishers"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "-"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "most"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "notably"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Kensington"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "-"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "allegedly"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "filing"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "fraudulent"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "reports"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "copyright"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "violations"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "with"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "using"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "its"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "automatic"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "processes"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "remove"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "full-text"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "editions"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "public"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "domain"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "works"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "from"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Books."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "That"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "leaves"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "only"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "expensive"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "print-on-demand"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "editions"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "many"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "titles."
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "So"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "when"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "see"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "shady"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "publisher"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "slapping"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "modern"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "copyright"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "dates"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "on"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "public"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "domain"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "works,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "preventing"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "anyone"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "from"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "seeing"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "even"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "snippets"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "texts,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "get"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "very"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "worried"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "very"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "suspicious."
+					}
+				]
+			},
+			{
+				"t": "RawBlock",
+				"c": ["html", "<hr />"]
+			},
+			{
+				"t": "Header",
+				"c": [
+					4,
+					["thats-totally-fascinating-andas-you-sayf", [], []],
+					[
+						{
+							"t": "Str",
+							"c": "That’s"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "totally"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "fascinating,"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "and–as"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "you"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "say–f…"
+						}
+					]
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Link",
+						"c": [
+							["", [], []],
+							[
+								{
+									"t": "Str",
+									"c": "Ben"
+								}
+							],
+							["https://www.blogger.com/profile/04856020368342677253", ""]
+						]
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "-"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "RawInline",
+						"c": ["html", "<time datetime=\"2014-04-03T14:52:26.645-04:00\">"]
+					},
+					{
+						"t": "Str",
+						"c": "Apr"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "4,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2014"
+					},
+					{
+						"t": "RawInline",
+						"c": ["html", "</time>"]
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "That’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "totally"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "fascinating,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and–as"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "you"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "say–far"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "more"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "important"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "than"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "whatever"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "does"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "data"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sets."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I’ve"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "only"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "hit"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "minor"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "but"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "consistent"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "inconvenience"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "reprints"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "show"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "up"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "at"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "top"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "searches,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "but"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "what"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "you"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "lay"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "out"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "seems"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "completely"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "plausible."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Unlike"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "YouTube"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "infringements,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "which"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "use"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "same"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "basic"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "principle,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "there’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "no"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "agent"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "out"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "there"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "with"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "any"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "interest"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "keeping"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "book"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "online"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "besides"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "itself."
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "In"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "theory,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "most"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "those"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "removed"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "public-domain"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "works"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "should"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "stay"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Hathi"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Internet"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "archive,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "which"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "have"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "lot"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "scans;"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "wonder"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "if"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "there’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "some"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "way"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "see"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "how"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "big"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "problem"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "by"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "looking"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "books"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Hathi"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "catalogue"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "have"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "been"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "removed"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "from"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "suspect"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "not,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "because"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "bulk"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "access"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "catalogue"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "really"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "difficult."
+					}
+				]
+			},
+			{
+				"t": "RawBlock",
+				"c": ["html", "<hr />"]
+			},
+			{
+				"t": "Header",
+				"c": [
+					4,
+					["if-ever-there-was-a-case-for-making-sure-we-unders", [], []],
+					[
+						{
+							"t": "Str",
+							"c": "If"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "ever"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "there"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "was"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "a"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "case"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "for"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "making"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "sure"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "we"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "unders…"
+						}
+					]
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Link",
+						"c": [
+							["", [], []],
+							[
+								{
+									"t": "Str",
+									"c": "Adam"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "Crymble"
+								}
+							],
+							["http://adamcrymble.org", ""]
+						]
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "-"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "RawInline",
+						"c": ["html", "<time datetime=\"2014-04-03T14:54:27.425-04:00\">"]
+					},
+					{
+						"t": "Str",
+						"c": "Apr"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "4,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2014"
+					},
+					{
+						"t": "RawInline",
+						"c": ["html", "</time>"]
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "If"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "ever"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "there"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "was"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "case"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "making"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sure"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "we"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "understand"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "our"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sources"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "data,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "you"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "just"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "made"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Very"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "cool."
+					}
+				]
+			},
+			{
+				"t": "RawBlock",
+				"c": ["html", "<hr />"]
+			},
+			{
+				"t": "Header",
+				"c": [
+					4,
+					["i-dont-suppose-this-makes-n-grams-obsolete.-m", [], []],
+					[
+						{
+							"t": "Str",
+							"c": "I"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "don’t"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "suppose"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "this"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "makes"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "n-grams"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "obsolete."
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "M…"
+						}
+					]
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Link",
+						"c": [
+							["", [], []],
+							[
+								{
+									"t": "Str",
+									"c": "Adam"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "Crymble"
+								}
+							],
+							["http://adamcrymble.org", ""]
+						]
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "-"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "RawInline",
+						"c": ["html", "<time datetime=\"2014-04-06T07:34:04.332-04:00\">"]
+					},
+					{
+						"t": "Str",
+						"c": "Apr"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "0,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2014"
+					},
+					{
+						"t": "RawInline",
+						"c": ["html", "</time>"]
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "I"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "don’t"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "suppose"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "this"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "makes"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "n-grams"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "obsolete."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Maybe"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "just"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "an"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "opportunity"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "acknowledge"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "what"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "we"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "really"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "want"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "datasets"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "first"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "editions"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "only."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Unless"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "we’re"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "using"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "corpus"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "another"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "reason."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "In"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "which"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "case"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "we"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "might"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "not."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "It"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "comes"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "down"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "control"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "over"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "what’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "or"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "what’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "out"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "though."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "And"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "at"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "moment"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "we"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "really"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "don’t"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "have"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that."
+					}
+				]
+			},
+			{
+				"t": "RawBlock",
+				"c": ["html", "<hr />"]
+			},
+			{
+				"t": "Header",
+				"c": [
+					4,
+					["yes-precise-control-of-contents-is-incredibly-use", [], []],
+					[
+						{
+							"t": "Str",
+							"c": "Yes,"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "precise"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "control"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "of"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "contents"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "is"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "incredibly"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "use…"
+						}
+					]
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Link",
+						"c": [
+							["", [], []],
+							[
+								{
+									"t": "Str",
+									"c": "Ben"
+								}
+							],
+							["https://www.blogger.com/profile/04856020368342677253", ""]
+						]
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "-"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "RawInline",
+						"c": ["html", "<time datetime=\"2014-04-06T10:31:51.983-04:00\">"]
+					},
+					{
+						"t": "Str",
+						"c": "Apr"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "0,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2014"
+					},
+					{
+						"t": "RawInline",
+						"c": ["html", "</time>"]
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "Yes,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "precise"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "control"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "contents"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "incredibly"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "useful;"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "we"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "(ie,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Erez"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Aiden’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "lab"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "at"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Rice,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "which"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "prompted"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "build"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Ngram"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "browser"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "begin"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "with)"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "myself)"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "have"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "joint"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "proposal"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "at"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "NEH"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "with"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Hathi"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Trust"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Research"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Center"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Bookworm"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "browser"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "would"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "enable"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "all"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sorts"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "custom"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "corpora"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "creation"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "based"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "on"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "metadata."
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "But"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "one"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "things"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "most"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "interesting"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "about"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Google"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Ngrams"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "showed"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "you"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "can"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "get"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "remarkably"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "usable"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "dataset"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "by"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "simply"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "outsourcing"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "decisions"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "about"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "whether"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "include"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "book"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "or"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "not"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "based"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "on"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "fact"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "publication."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "(And"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "few"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "other"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "things—language"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "OCR"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "quality,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "particular)."
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "And"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "paradigm,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "at"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "least,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "breaking"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "down."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "You"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "could"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "say"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "actually,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Ngrams"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "only"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "works"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "through"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2000"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "because"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "human"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "librarians"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "(alive"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "dead)"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "chose"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "which"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "books"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "would"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "be"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "counted;"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "at"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "moment"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "switched"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "publishers"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "supplying"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "books,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "something"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "changed."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "That"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "seems"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "possible."
+					}
+				]
+			},
+			{
+				"t": "RawBlock",
+				"c": ["html", "<hr />"]
+			},
+			{
+				"t": "Header",
+				"c": [
+					4,
+					["what-we-really-want-in-the-datasets-is-first", [], []],
+					[
+						{
+							"t": "Str",
+							"c": "“what"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "we"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "really"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "want"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "in"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "the"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "datasets"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "is"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "first…"
+						}
+					]
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Link",
+						"c": [
+							["", [], []],
+							[
+								{
+									"t": "Str",
+									"c": "Unknown"
+								}
+							],
+							["https://www.blogger.com/profile/10049944935144722560", ""]
+						]
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "-"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "RawInline",
+						"c": ["html", "<time datetime=\"2014-04-14T14:35:04.990-04:00\">"]
+					},
+					{
+						"t": "Str",
+						"c": "Apr"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "1,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2014"
+					},
+					{
+						"t": "RawInline",
+						"c": ["html", "</time>"]
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Quoted",
+						"c": [
+							{
+								"t": "DoubleQuote"
+							},
+							[
+								{
+									"t": "Str",
+									"c": "what"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "we"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "really"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "want"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "in"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "the"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "datasets"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "is"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "first"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "editions"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "only."
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "Unless"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "we’re"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "using"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "the"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "corpus"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "for"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "another"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "reason"
+								}
+							]
+						]
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "I’m"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "not"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "so"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sure"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "about"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "It"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "betrays"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "certain"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "assumption"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "about"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "our"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "data"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "use,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "which"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "we"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "assume"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "ngrams-by-publication-date"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "are"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "good"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "proxy"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "measuring"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "*something*"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "culturally"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "relevant."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "More"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "specifically,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "what"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "words"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "are"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "written"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "any"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "given"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "year"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "represent"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "or"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "are"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "correlated"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "some"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "cultural"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "signal."
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "But"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "(as"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Ben"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "others"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "have"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "brought"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "up"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "before)"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "dataset"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "isn’t"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "universal"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sample,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "representative"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "human"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "(in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "this"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "case"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "mostly"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "librarian-driven)"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "selection"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "process."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Thus,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sample"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "isn’t"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "necessarily"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "one"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "what"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "written,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "but"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "what"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "read"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "or"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "saved"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "or"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "kept"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "whatever"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "reason."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "That"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "selection"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "process"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "changes"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "with"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "publisher-driven"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "model,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "but"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "doesn’t"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "necessarily"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "take"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "any"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "closer"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "or"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "farther"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "from"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "original"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "assumption."
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "Which"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "all"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "say,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "ideal"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sample"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "existed"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "no"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "more"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "before"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2000"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "than"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "after,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "something"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "haven’t"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "really"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "seen"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "confronted"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "in"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "studies"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "that"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "rely"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "on"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "these"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "analyses."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "The"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "creation"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "process"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "for"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "corpora"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "fluctuate."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "I’m"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "sure"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "more"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "recent"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "books,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "even"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "pre-2000,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "are"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "less"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "reliant"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "on"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "their"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "popularity"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "have"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "made"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "into"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "ngrams"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "than"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "books"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "from"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "300"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "years"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "ago."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "The"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "earlier"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "we"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "go,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "though,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "less"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Adam’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "basic"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "claim"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "(1st"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "published"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "edition"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "meaningful"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "because"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "about"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "first"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "word"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "use)"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "holds"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "up"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "scrutiny."
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "What’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "needed,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "and"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "hopefully"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "can"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "come"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "out"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "this"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "new"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "project"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Ben"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "mentioned,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "serious"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "study"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "what"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "exactly"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "the"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "signal"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "being"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "processed."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Is"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "study"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "what’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "being"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "written,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "what’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "being"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "read,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "what’s"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "being"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "saved?"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Only"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "then"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "can"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "we"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "start"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "saying"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "things"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "like"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Quoted",
+						"c": [
+							{
+								"t": "DoubleQuote"
+							},
+							[
+								{
+									"t": "Str",
+									"c": "all"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "we"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "want"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "are"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "the"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "first"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "published"
+								},
+								{
+									"t": "Space"
+								},
+								{
+									"t": "Str",
+									"c": "edition."
+								}
+							]
+						]
+					}
+				]
+			},
+			{
+				"t": "RawBlock",
+				"c": ["html", "<hr />"]
+			},
+			{
+				"t": "Header",
+				"c": [
+					4,
+					["on-a-different-level-this-has-made-it-remarkably", [], []],
+					[
+						{
+							"t": "Str",
+							"c": "On"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "a"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "different"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "level,"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "this"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "has"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "made"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "it"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "remarkably"
+						},
+						{
+							"t": "Space"
+						},
+						{
+							"t": "Str",
+							"c": "…"
+						}
+					]
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Link",
+						"c": [
+							["", [], []],
+							[
+								{
+									"t": "Str",
+									"c": "Ilja"
+								}
+							],
+							["https://www.blogger.com/profile/12096376093633074580", ""]
+						]
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "-"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "RawInline",
+						"c": ["html", "<time datetime=\"2014-07-18T04:56:31.618-04:00\">"]
+					},
+					{
+						"t": "Str",
+						"c": "Jul"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "5,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "2014"
+					},
+					{
+						"t": "RawInline",
+						"c": ["html", "</time>"]
+					}
+				]
+			},
+			{
+				"t": "Para",
+				"c": [
+					{
+						"t": "Str",
+						"c": "On"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "a"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "different"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "level,"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "this"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "has"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "made"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "it"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "remarkably"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "difficult"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "to"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "find"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "authentic"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "old"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "books."
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "A"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "search"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "on"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "Bookfinder"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "et"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "al. will"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "typically"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "only"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "reveal"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "an"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "avalanche"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "of"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "POD"
+					},
+					{
+						"t": "Space"
+					},
+					{
+						"t": "Str",
+						"c": "junk."
+					}
+				]
+			},
+			{
+				"t": "RawBlock",
+				"c": ["html", "<hr />"]
+			}
+		]
+	}
+}
