@@ -4,7 +4,7 @@
         <title>Blog Title</title>
         <link>https://benschmidt.org/post</link>
         <description>Posts and updates. Fun with a porpoise.</description>
-        <lastBuildDate>Thu, 09 Feb 2023 23:48:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 04:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -17,7 +17,7 @@
         <item>
             <title><![CDATA[A nested post.]]></title>
             <pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p>Do you see how the URL for this post is nested? That’s what this demonstrates. You could do that all you want.</p>
+            <content:encoded><![CDATA[<p>Do you see how the URL for this post is nested? That’s what this demonstrates. Look in the folder of markdown folders to see that it shows up in a folder. You could do that all you want.</p>
 ]]></content:encoded>
             <author>bmschmidt@gmail.com (Ben Schmidt)</author>
         </item>
