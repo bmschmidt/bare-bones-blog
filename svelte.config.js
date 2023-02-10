@@ -6,10 +6,12 @@ const config = {
 	// Consult https://kit.svelte.dev/docs/integrations#preprocessors
 	// for more information about preprocessors
 	preprocess: vitePreprocess(),
-
 	kit: {
-		adapter: adapter()
-	}
+		adapter: adapter(),
+		paths: {
+			base: '/bare-bones-blog'
+		},
+		}
 };
 
 export default config;

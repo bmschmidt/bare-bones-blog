@@ -1,12 +1,13 @@
 <script>
 	import '/src/app.css';
+  import { base } from '$app/paths'
 </script>
 
 <div class="header">
-	<a href="/">My Blog</a>
-	<!--Don't remove these links without putting them elsewhere! If you do, the feed won't autogenerate.-->
-	<a href="/atom.xml">Atom feed</a>
-	<a href="/rss.xml">RSS feed</a>
+	<a href="{base || '/'}">My Blog</a>
+	<!--Don't remove these links without putting them elsewhere! If there aren't links, the feed won't autogenerate.-->
+	<a href="{base}/atom.xml">Atom feed</a>
+	<a href="{base}/rss.xml">RSS feed</a>
 </div>
 <div class="body">
 	<slot />

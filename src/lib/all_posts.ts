@@ -1,6 +1,5 @@
 const fulltext = import.meta.glob('/src/content/**/*.md', { eager: true });
 const files = Object.keys(fulltext);
-
 type Pandocument = any;
 type Page = {
 	slug: string;
@@ -14,6 +13,7 @@ for (const filepath of files) {
 	const metadata = data.metadata || {};
 	if (metadata.date === undefined || metadata.date == 0) {
 		console.warn('No date for', slug);
+    continue
 	}
 	// Turn the date into an actual date field.
 	metadata.date = new Date(metadata.date || 0).toISOString();
@@ -24,5 +24,4 @@ for (const filepath of files) {
 	});
 }
 pages.sort((a, b) => (a.metadata.date > b.metadata.date ? -1 : 1));
-
 export default pages;

@@ -12,7 +12,7 @@ into a truly bare-bones blog that can be easily extended using svelte-kit. Svelt
 out way to write performant, accessible, standards-oriented web sites that use Javascript as
 a templating language, prioritize accessibility and quick build times (unlike, say, Jekyll)
 and avoid the bloated abstractions of React. Writing in Svelte components is about as close as you can
-get nowadays to actually using the things you'd learn in a web dev class about CSS, HTML, and Javascript.
+get nowadays to actually using the things you'd learn in a web dev class about a, HTML, and Javascript.
 
 The real point here is to be able to do neat things inside the blocks. For some examples, see
 the [`pandoc-svelte-components`](https://github.com/bmschmidt/pandoc-svelte-components) library I use
