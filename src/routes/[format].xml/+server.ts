@@ -2,23 +2,26 @@ export const prerender = true;
 import full_catalog from '$lib/all_posts';
 import { json2html } from 'pandoc-tools';
 import { Feed } from 'feed';
+import { base } from '$app/paths'
+
+const MY_DOMAIN = 'https://bmschmidt.github.io/'
 
 async function make_feed() {
 	/* 
 	Sets up a feed. This is where stuff you might change lives.
 	*/
 	const feed = new Feed({
-		title: 'Blog Title',
-		description: 'Posts and updates. Fun with a porpoise.',
-		id: 'https://benschmidt.org/',
-		link: 'https://benschmidt.org/post',
+		title: 'My Own Blog!',
+		description: 'Fun with a porpoise.',
+		id: `${MY_DOMAIN}/${base}`,
+		link: `${MY_DOMAIN}/${base}`,
 		// optional, used only in RSS 2.0, possible values: http://www.w3.org/TR/REC-html40/struct/dirlang.html#langcodes
 	  language: 'en',
 		copyright: 'All rights reserved 2023, Ben Schmidt',
 		generator: 'Feed for Node.js',
 		feedLinks: {
-			atom: 'https://benschmidt.org/atom.xml',
-			rss: 'https://benschmidt.org/rss.xml'
+			atom:  `${MY_DOMAIN}/${base}/atom.xml`,
+			rss:  `${MY_DOMAIN}/${base}/atom.xml`
 		},
 		author: {
 			name: 'Ben Schmidt',
@@ -33,22 +36,25 @@ async function make_feed() {
 	post_index = post_index.filter((d) => d.metadata.date);
 
 	for (const post_full of post_index) {
-		post_full.html = await json2html(post_full.document);
+		const html = await json2html(post_full.document);
 		const post = post_full.metadata;
+		if (post.draft) continue;
+
 		if (!post.title) {
 			console.warn(
 				`File ${post_full.slug}.md has no title given in metadata block, not syndicating.`
 			);
 			continue;
 		}
-		if (post.draft) continue;
-		post.url = post_full.url as string;
+		const url = `${MY_DOMAIN}/${base}/${post_full.slug}`
 		feed.addItem({
 			title: post.title || 'untitled',
-			id: post.url,
-			link: post.url,
-			description: post_full.description || '',
-			content: post_full.html,
+			id: url,
+			link: url,
+			// Add a metadata field to yaml called 'description' if you need
+			// one.
+			description: post.description || '',
+			content: html,
 			author: [
 				{
 					name: 'Ben Schmidt',
@@ -66,6 +72,7 @@ async function make_feed() {
 	feed.addCategory('Digital Humanities');
 	feed.addCategory('Data Analysis');
 	feed.addCategory('Data Visualization');
+	
 	return feed;
 }
 
