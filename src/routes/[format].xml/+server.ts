@@ -1,21 +1,24 @@
 export const prerender = true;
-
 import full_catalog from '$lib/all_posts';
 import { json2html } from 'pandoc-tools';
 import { Feed } from 'feed';
 
 async function make_feed() {
+	/* 
+	Sets up a feed. This is where stuff you might change lives.
+	*/
 	const feed = new Feed({
 		title: 'Blog Title',
 		description: 'Posts and updates. Fun with a porpoise.',
 		id: 'https://benschmidt.org/',
 		link: 'https://benschmidt.org/post',
-		language: 'en', // optional, used only in RSS 2.0, possible values: http://www.w3.org/TR/REC-html40/struct/dirlang.html#langcodes
+		// optional, used only in RSS 2.0, possible values: http://www.w3.org/TR/REC-html40/struct/dirlang.html#langcodes
+	  language: 'en',
 		copyright: 'All rights reserved 2023, Ben Schmidt',
-		//  generator: "awesome", // optional, default = 'Feed for Node.js'
+		generator: 'Feed for Node.js',
 		feedLinks: {
-			//			json: 'https://benschmidt.org/feed.json',
-			atom: 'https://benschmidt.org/feed.xml'
+			atom: 'https://benschmidt.org/atom.xml',
+			rss: 'https://benschmidt.org/rss.xml'
 		},
 		author: {
 			name: 'Ben Schmidt',
@@ -23,16 +26,14 @@ async function make_feed() {
 			link: 'https://benschmidt.org'
 		}
 	});
+
 	let post_index = full_catalog.filter((d) => d.metadata?.date);
 	post_index.sort((a, b) => b.metadata.date - a.metadata.date);
 	// If a markdown file is marked with `draft: true`, it won't show up here!
 	post_index = post_index.filter((d) => d.metadata.date);
 
-	for (const post of post_index) {
-		post.html = await json2html(post.document);
-	}
-
 	for (const post_full of post_index) {
+		post_full.html = await json2html(post_full.document);
 		const post = post_full.metadata;
 		if (!post.title) {
 			console.warn(
@@ -43,7 +44,7 @@ async function make_feed() {
 		if (post.draft) continue;
 		post.url = post_full.url as string;
 		feed.addItem({
-			title: post.title,
+			title: post.title || 'untitled',
 			id: post.url,
 			link: post.url,
 			description: post_full.description || '',

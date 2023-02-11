@@ -1,5 +1,5 @@
 ---
-title: 'Call numbers'
+title: "Call numbers"
 date: 2010-12-27T13:45:00.000-05:00
 draft: false
 url: /2010/12/call-numbers.html
@@ -122,7 +122,7 @@ So the Michigan and the Cal books are the best, and they're some of the biggest 
 
 #### What does agriculture have to do with attention?!
 
-[Jamie ](https://www.blogger.com/profile/13542022273476075921 'noreply@blogger.com') - <time datetime="2010-12-28T09:50:15.883-05:00">Dec 2, 2010</time>
+[Jamie ](https://www.blogger.com/profile/13542022273476075921 "noreply@blogger.com") - <time datetime="2010-12-28T09:50:15.883-05:00">Dec 2, 2010</time>
 
 What does agriculture have to do with attention?!
 

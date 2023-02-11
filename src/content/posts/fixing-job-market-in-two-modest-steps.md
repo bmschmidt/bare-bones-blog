@@ -1,5 +1,5 @@
 ---
-title: 'Fixing the job market in two modest steps'
+title: "Fixing the job market in two modest steps"
 date: 2012-01-30T10:20:00.000-05:00
 draft: false
 url: /2011/12/fixing-job-market-in-two-modest-steps.html

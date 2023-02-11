@@ -1,5 +1,5 @@
 ---
-title: 'Comparing Corpuses by Word Use'
+title: "Comparing Corpuses by Word Use"
 date: 2011-10-06T15:36:00.000-04:00
 draft: false
 url: /2011/10/comparing-corpuses-by-word-use.html

@@ -1,5 +1,5 @@
 ---
-title: 'Biblio bizarre: who publishes in Google Books'
+title: "Biblio bizarre: who publishes in Google Books"
 date: 2014-04-03T13:42:00.002-04:00
 draft: false
 url: /2014/04/biblio-bizarre-who-publishes-in-google.html
@@ -43,7 +43,7 @@ Among other strange things, that means Ngrams is almost certainly at its most us
 
 #### Wow. I knew they were an enormous problem, but I h...
 
-[Unknown](https://www.blogger.com/profile/02151663590594341211 'noreply@blogger.com') - <time datetime="2014-04-03T14:16:02.193-04:00">Apr 4, 2014</time>
+[Unknown](https://www.blogger.com/profile/02151663590594341211 "noreply@blogger.com") - <time datetime="2014-04-03T14:16:02.193-04:00">Apr 4, 2014</time>
 
 Wow. I knew they were an enormous problem, but I hadn't come close to understanding the scale of the challenge they pose.
 

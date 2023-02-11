@@ -1,5 +1,5 @@
 ---
-title: 'Making Downton more traditional'
+title: "Making Downton more traditional"
 date: 2012-02-13T13:49:00.002-05:00
 draft: false
 url: /2012/02/making-downton-more-traditional.html
