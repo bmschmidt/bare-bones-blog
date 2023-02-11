@@ -8,11 +8,11 @@
     <meta http-equiv="content-security-policy" content="">
 		<link href="/bare-bones-blog/_app/immutable/assets/_layout-d038528e.css" rel="stylesheet">
 		<link href="/bare-bones-blog/_app/immutable/assets/_page-a4c0a9bf.css" rel="stylesheet">
-		<link rel="modulepreload" href="/bare-bones-blog/_app/immutable/start-ded3bc15.js">
+		<link rel="modulepreload" href="/bare-bones-blog/_app/immutable/start-b55085ab.js">
 		<link rel="modulepreload" href="/bare-bones-blog/_app/immutable/chunks/index-b541d48b.js">
 		<link rel="modulepreload" href="/bare-bones-blog/_app/immutable/chunks/singletons-297a5fd4.js">
 		<link rel="modulepreload" href="/bare-bones-blog/_app/immutable/chunks/paths-0c2a5aac.js">
-		<link rel="modulepreload" href="/bare-bones-blog/_app/immutable/components/pages/_layout.svelte-a77b9a53.js">
+		<link rel="modulepreload" href="/bare-bones-blog/_app/immutable/components/pages/_layout.svelte-c459760a.js">
 		<link rel="modulepreload" href="/bare-bones-blog/_app/immutable/components/pages/_...slug_/_page.svelte-57a3d9fd.js"><title>Guide to files.</title><!-- HEAD_svelte-kyjbv2_START --><!-- HEAD_svelte-kyjbv2_END -->
   </head>
   <body data-sveltekit-preload-data="hover">
@@ -21,8 +21,8 @@
 
 <div class="header svelte-1slicvk"><a href="/bare-bones-blog">My Blog</a>
   
-  <a href="/bare-bones-blog/atom.xml">Atom feed</a>
-  <a href="/bare-bones-blog/rss.xml">RSS feed</a></div>
+  <a data-sveltekit-reload href="/bare-bones-blog/atom.xml">Atom feed</a>
+  <a data-sveltekit-reload href="/bare-bones-blog/rss.xml">RSS feed</a></div>
 <div class="body svelte-1slicvk"><h1>Guide to files.</h1>
 <em>February 9, 2023</em>
 
@@ -56,14 +56,14 @@
 </div>
 
 
-		<script type="module" data-sveltekit-hydrate="6u37pz">
-			import { start } from "/bare-bones-blog/_app/immutable/start-ded3bc15.js";
+		<script type="module" data-sveltekit-hydrate="mcxqzb">
+			import { start } from "/bare-bones-blog/_app/immutable/start-b55085ab.js";
 
 			start({
 				assets: "/bare-bones-blog",
 				env: {},
-				target: document.querySelector('[data-sveltekit-hydrate="6u37pz"]').parentNode,
-				version: "1676086387293",
+				target: document.querySelector('[data-sveltekit-hydrate="mcxqzb"]').parentNode,
+				version: "1676142588464",
 				hydrate: {
 					node_ids: [0, 3],
 					data: [{type:"data",data:null,uses:{}},{type:"data",data:{document:{"pandoc-api-version":[1,22,1],meta:{date:{t:"MetaInlines",c:[{t:"Str",c:"2023-02-10"}]},title:{t:"MetaInlines",c:[{t:"Str",c:"Guide to files."}]}},blocks:[{t:"Para",c:[{t:"Str",c:"An explanation of all the files."}]},{t:"Header",c:[2,["relevant",[],[]],[{t:"Str",c:"Relevant"}]]},{t:"BulletList",c:[[{t:"Plain",c:[{t:"Code",c:[["",[],[]],"\u002Fbuild"]},{t:"Str",c:": The place your blog ends up. Never edit the files here, because they’ll get overwritten! But you may want to copy this directory up to a webserever or something."}]}],[{t:"Plain",c:[{t:"Strong",c:[{t:"Code",c:[["",[],[]],"\u002Fsrc"]},{t:"Str",c:": Where all the code and writing that creates the blog live."}]}]},{t:"BulletList",c:[[{t:"Plain",c:[{t:"Strong",c:[{t:"Code",c:[["",[],[]],"\u002Fsrc\u002Fcontent"]},{t:"Str",c:" A place for "}]},{t:"Str",c:"you** to put blog posts, written as files. The"},{t:"Strong",c:[{t:"Str",c:" "}]},{t:"Str",c:"location of a file in this folder hierarchy will determine its url.**"}]}],[{t:"Plain",c:[{t:"Emph",c:[{t:"Code",c:[["",[],[]],"\u002Fsrc\u002Flib"]},{t:"Str",c:": A place to put code that’s general to the project."}]}]},{t:"BulletList",c:[[{t:"Plain",c:[{t:"Emph",c:[{t:"Code",c:[["",[],[]],"\u002Fsrc\u002Flib\u002Fall_posts.ts"]},{t:"Str",c:" Ignorable. Holds the code that imports all your files from "},{t:"Code",c:[["",[],[]],"src\u002Fcontent"]},{t:"Str",c:"."}]}]}]]}],[{t:"Plain",c:[{t:"Strong",c:[{t:"Code",c:[["",[],[]],"\u002Fsrc\u002Froutes"]},{t:"Str",c:": A place to define svelte-kit page."}]}]},{t:"BulletList",c:[[{t:"Plain",c:[{t:"Code",c:[["",[],[]],"\u002Fsrc\u002Froutes\u002F+layout.svelte"]},{t:"Str",c:": A file that defines the overall page layout for everything on the blog. The place to experiment with, say, adding a sidebar that’s always visible."}]}],[{t:"Plain",c:[{t:"Str",c:"*"},{t:"Code",c:[["",[],[]],"\u002Fsrc\u002Froutes\u002F+layout.svelte"]},{t:"Str",c:": A file necessary to force pregeneration."}]}],[{t:"Plain",c:[{t:"Strong",c:[{t:"Code",c:[["",[],[]],"\u002Fsrc\u002Froutes\u002F+page.svelte"]},{t:"Str",c:": The code that holds the "},{t:"Emph",c:[{t:"Str",c:"front page"}]},{t:"Str",c:" for the blog (the index of posts.) Easily edited."}]}]}],[{t:"Plain",c:[{t:"Str",c:"**"},{t:"Code",c:[["",[],[]],"\u002Fsrc\u002Froutes\u002F[format.xml]\u002F+server.ts"]},{t:"Str",c:": The code that generates an RSS and Atom feed. You’ll have to edit information in this file or else the files will appear over rss to be written by Ben Schmidt."}]}],[{t:"Plain",c:[{t:"Strong",c:[{t:"Code",c:[["",[],[]],"\u002Fsrc\u002Froutes\u002F[..slug]\u002F+page.svelte"]},{t:"Str",c:": The page that determines the appearance of each blog post."}]},{t:"Str",c:" "},{t:"Strong",c:[{t:"Str",c:"This is the file to edit if you want to–say–make the posts list their authors."}]}]}],[{t:"Plain",c:[{t:"Emph",c:[{t:"Code",c:[["",[],[]],"\u002Fsrc\u002Froutes\u002F[..slug]\u002F+page.server.ts"]},{t:"Str",c:": boilerplace that supplies the HTML necessary for the blog posts to build"}]},{t:"Str",c:"."}]}]]}],[{t:"Plain",c:[{t:"Code",c:[["",[],[]],"\u002Fsrc\u002Fapp.css"]},{t:"Str",c:": The place to put global styles. In general you should have very few of these in svelte–put them in components instead. But things like the global font belong here."}]}],[{t:"Plain",c:[{t:"Code",c:[["",[],[]],"app.html"]},{t:"Str",c:": Boilerplate so svelte can build the page."}]}]]}],[{t:"Plain",c:[{t:"Strong",c:[{t:"Str",c:"\u002Fstatic\u002F"}]},{t:"Str",c:": A place to put files that don’t go through svelte you want on your page, like images."}]},{t:"BulletList",c:[[{t:"Plain",c:[{t:"Code",c:[["",[],[]],"\u002Fstatic\u002F.nojekyll\u002F"]}]}]]}],[{t:"Plain",c:[{t:"Strong",c:[{t:"Code",c:[["",[],[]],"\u002Fsvelte.config.js"]}]},{t:"Str",c:". Svelte configuration. Mostly boilerplate, but the entry at "},{t:"Code",c:[["",[],[]],"paths.base"]},{t:"Str",c:"–currently "},{t:"Quoted",c:[{t:"SingleQuote"},[{t:"Str",c:"bare-bones-blog"}]]},{t:"Str",c:"– determines the URL prefix that will be used on all posts, and will need to be fixed."}]}],[{t:"Plain",c:[{t:"Emph",c:[{t:"Code",c:[["",[],[]],"vite.config.ts"]},{t:"Str",c:": Configuration for "},{t:"Link",c:[["",[],[]],[{t:"Str",c:"vite"}],["https:\u002F\u002Fvitejs.dev",""]]},{t:"Str",c:", which is the program that actually"}]},{t:"Str",c:" "},{t:"Emph",c:[{t:"Str",c:"runs all the code. (Svelte uses it to make the build faster than old JS packages like "},{t:"Quoted",c:[{t:"SingleQuote"},[{t:"Str",c:"webpack."}]]},{t:"Str",c:")"}]},{t:"Str",c:" "},{t:"Emph",c:[{t:"Str",c:"Includes the import of the pandoc-tools plugin."}]}]}],[{t:"Plain",c:[{t:"Emph",c:[{t:"Code",c:[["",[],[]],"tsconfig.json"]},{t:"Str",c:": Typescript settings."}]}]}],[{t:"Plain",c:[{t:"Emph",c:[{t:"Code",c:[["",[],[]],"\u002Fpackage.json"]},{t:"Str",c:": Stores a list of installed packages."}]}]}],[{t:"Plain",c:[{t:"Emph",c:[{t:"Code",c:[["",[],[]],"\u002F.svelte-kit"]},{t:"Str",c:": A hidden folder (you may not even see it!) where svelte-kit stores stuff."}]}]}],[{t:"Plain",c:[{t:"Emph",c:[{t:"Str",c:"node_modules: A folder that gets filled up with code to help build the blog. It’s automatically"}]},{t:"Str",c:" "},{t:"Emph",c:[{t:"Str",c:"generated, and if you delete it you just need to run "},{t:"Code",c:[["",[],[]],"npm i"]},{t:"Str",c:" again."}]}]}],[{t:"Plain",c:[{t:"Emph",c:[{t:"Code",c:[["",[],[]],"posts_cache"]},{t:"Str",c:": A folder where BBB writes temporary versions of files. Deletable."}]}]}],[{t:"Plain",c:[{t:"Emph",c:[{t:"Code",c:[["",[],[]],"LICENSE"]},{t:"Str",c:": Gives you permission to use this. Feel free to delete."}]}]}]]}]},metadata:{date:"2023-02-10T00:00:00.000Z",title:"Guide to files."}},uses:{params:["slug"]}}],
