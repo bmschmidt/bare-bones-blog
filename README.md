@@ -54,8 +54,13 @@ git clone https://bmschmidt.github.io/bare-bones-blog/atom.xml
 npm i
 npm run dev # <- for while you edit--if you haven't used vite,
             # it's worth watching how quickly style/code changes apply.
-            # This will give you a link to edit.
+            # This will give you a link to view.
+            # Change the markdown files in src/content.
+            
+##BUILD##
 npm run build # <- to build the static-page version.
+## OR ###
+npm run deploy # <- builds the static-page version, commits it to a separate branch called gh-pages, and uploads to github.
 ```
 
 ## Full list of files
