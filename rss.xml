@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Blog Title</title>
         <link>https://benschmidt.org/post</link>
         <description>Posts and updates. Fun with a porpoise.</description>
-        <lastBuildDate>Fri, 10 Feb 2023 04:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 03:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
+        <generator>Feed for Node.js</generator>
         <language>en</language>
         <copyright>All rights reserved 2023, Ben Schmidt</copyright>
         <category>History</category>
@@ -14,6 +14,49 @@
         <category>Digital Humanities</category>
         <category>Data Analysis</category>
         <category>Data Visualization</category>
+        <atom:link href="https://benschmidt.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Guide to files.]]></title>
+            <pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>An explanation of all the files.</p>
+<h2 id="relevant">Relevant</h2>
+<ul>
+<li><code>/build</code>: The place your blog ends up. Never edit the files here, because they’ll get overwritten! But you may want to copy this directory up to a webserever or something.</li>
+<li><strong><code>/src</code>: Where all the code and writing that creates the blog live.</strong>
+<ul>
+<li><strong><code>/src/content</code> A place for </strong>you** to put blog posts, written as files. The<strong> </strong>location of a file in this folder hierarchy will determine its url.**</li>
+<li><em><code>/src/lib</code>: A place to put code that’s general to the project.</em>
+<ul>
+<li><em><code>/src/lib/all_posts.ts</code> Ignorable. Holds the code that imports all your files from <code>src/content</code>.</em></li>
+</ul></li>
+<li><strong><code>/src/routes</code>: A place to define svelte-kit page.</strong>
+<ul>
+<li><code>/src/routes/+layout.svelte</code>: A file that defines the overall page layout for everything on the blog. The place to experiment with, say, adding a sidebar that’s always visible.</li>
+<li>*<code>/src/routes/+layout.svelte</code>: A file necessary to force pregeneration.</li>
+<li><strong><code>/src/routes/+page.svelte</code>: The code that holds the <em>front page</em> for the blog (the index of posts.) Easily edited.</strong></li>
+<li>**<code>/src/routes/[format.xml]/+server.ts</code>: The code that generates an RSS and Atom feed. You’ll have to edit information in this file or else the files will appear over rss to be written by Ben Schmidt.</li>
+<li><strong><code>/src/routes/[..slug]/+page.svelte</code>: The page that determines the appearance of each blog post.</strong> <strong>This is the file to edit if you want to–say–make the posts list their authors.</strong></li>
+<li><em><code>/src/routes/[..slug]/+page.server.ts</code>: boilerplace that supplies the HTML necessary for the blog posts to build</em>.</li>
+</ul></li>
+<li><code>/src/app.css</code>: The place to put global styles. In general you should have very few of these in svelte–put them in components instead. But things like the global font belong here.</li>
+<li><code>app.html</code>: Boilerplate so svelte can build the page.</li>
+</ul></li>
+<li><strong>/static/</strong>: A place to put files that don’t go through svelte you want on your page, like images.
+<ul>
+<li><code>/static/.nojekyll/</code></li>
+</ul></li>
+<li><strong><code>/svelte.config.js</code></strong>. Svelte configuration. Mostly boilerplate, but the entry at <code>paths.base</code>–currently ‘bare-bones-blog’– determines the URL prefix that will be used on all posts, and will need to be fixed.</li>
+<li><em><code>vite.config.ts</code>: Configuration for <a href="https://vitejs.dev">vite</a>, which is the program that actually</em> <em>runs all the code. (Svelte uses it to make the build faster than old JS packages like ‘webpack.’)</em> <em>Includes the import of the pandoc-tools plugin.</em></li>
+<li><em><code>tsconfig.json</code>: Typescript settings.</em></li>
+<li><em><code>/package.json</code>: Stores a list of installed packages.</em></li>
+<li><em><code>/.svelte-kit</code>: A hidden folder (you may not even see it!) where svelte-kit stores stuff.</em></li>
+<li><em>node_modules: A folder that gets filled up with code to help build the blog. It’s automatically</em> <em>generated, and if you delete it you just need to run <code>npm i</code> again.</em></li>
+<li><em><code>posts_cache</code>: A folder where BBB writes temporary versions of files. Deletable.</em></li>
+<li><em><code>LICENSE</code>: Gives you permission to use this. Feel free to delete.</em></li>
+</ul>
+]]></content:encoded>
+            <author>bmschmidt@gmail.com (Ben Schmidt)</author>
+        </item>
         <item>
             <title><![CDATA[A nested post.]]></title>
             <pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
