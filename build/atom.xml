@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://benschmidt.org/</id>
-    <title>Blog Title</title>
-    <updated>2023-02-11T03:12:53.502Z</updated>
+    <id>https://bmschmidt.github.io///bare-bones-blog</id>
+    <title>My Own Blog!</title>
+    <updated>2023-02-11T19:09:51.855Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Ben Schmidt</name>
         <email>bmschmidt@gmail.com</email>
         <uri>https://benschmidt.org</uri>
     </author>
-    <link rel="alternate" href="https://benschmidt.org/post"/>
-    <link rel="self" href="https://benschmidt.org/atom.xml"/>
-    <subtitle>Posts and updates. Fun with a porpoise.</subtitle>
+    <link rel="alternate" href="https://bmschmidt.github.io///bare-bones-blog"/>
+    <link rel="self" href="https://bmschmidt.github.io///bare-bones-blog/atom.xml"/>
+    <subtitle>Fun with a porpoise.</subtitle>
     <rights>All rights reserved 2023, Ben Schmidt</rights>
     <category term="History"/>
     <category term="Programming"/>
@@ -20,8 +20,8 @@
     <category term="Data Visualization"/>
     <entry>
         <title type="html"><![CDATA[Guide to files.]]></title>
-        <id/>
-        <link/>
+        <id>https://bmschmidt.github.io///bare-bones-blog/posts/meta/files</id>
+        <link href="https://bmschmidt.github.io///bare-bones-blog/posts/meta/files"/>
         <updated>2023-02-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>An explanation of all the files.</p>
 <h2 id="relevant">Relevant</h2>
@@ -68,8 +68,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[A nested post.]]></title>
-        <id/>
-        <link/>
+        <id>https://bmschmidt.github.io///bare-bones-blog/posts/nested_posts/demo</id>
+        <link href="https://bmschmidt.github.io///bare-bones-blog/posts/nested_posts/demo"/>
         <updated>2023-02-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Do you see how the URL for this post is nested? That’s what this demonstrates. Look in the folder of markdown folders to see that it shows up in a folder. You could do that all you want.</p>
 ]]></content>
@@ -81,8 +81,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Last Post]]></title>
-        <id/>
-        <link/>
+        <id>https://bmschmidt.github.io///bare-bones-blog/posts/post1</id>
+        <link href="https://bmschmidt.github.io///bare-bones-blog/posts/post1"/>
         <updated>2023-02-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>This is the most recent post I’ve made! It’s in Markdown and everything.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
 <section class="footnotes footnotes-end-of-document" role="doc-endnotes">
@@ -100,8 +100,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA["Peer review" is younger than you think. Does that mean it can go away?]]></title>
-        <id/>
-        <link/>
+        <id>https://bmschmidt.github.io///bare-bones-blog/posts/peer-review-is-younger-than-you-think</id>
+        <link href="https://bmschmidt.github.io///bare-bones-blog/posts/peer-review-is-younger-than-you-think"/>
         <updated>2017-09-15T15:41:00.004Z</updated>
         <content type="html"><![CDATA[<p><em>This is a blog post I’ve had sitting around in some form for a few years; I wanted to post it today because:</em></p>
 <p><em>1) It’s about peer review, and it’s <a href="https://peerreviewweek.wordpress.com/">peer review week</a>! I just read <a href="https://dukeupress.wordpress.com/2017/09/14/editorial-director-ken-wissoker-on-why-he-loves-peer-review/">this nice piece by Ken Wissoker</a> in its defense.</em><br />
@@ -166,8 +166,8 @@ http://adanewmedia.org/2014/04/issue4-pontilletorny/</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[The efficient plots hypothesis]]></title>
-        <id/>
-        <link/>
+        <id>https://bmschmidt.github.io///bare-bones-blog/posts/the-efficient-plots-hypothesis</id>
+        <link href="https://bmschmidt.github.io///bare-bones-blog/posts/the-efficient-plots-hypothesis"/>
         <updated>2016-09-09T17:07:00.002Z</updated>
         <content type="html"><![CDATA[<p>I’m pulling this discussion out of the comments thread on <a href="http://www.lagado.name/blog/brownian-noise-and-plot-arcs/">Scott Enderle’s blog</a>, because it’s fun. This is the formal statement of what will forever be known as the <strong>efficient plot hypothesis for plot arceology</strong>. Noble prize in culturomics, here I come.</p>
 <p>Brief background: Enderle shows pretty persuasively that all the fundamental plot arcs <a href="https://arxiv.org/abs/1606.07772">described in a paper by a math-based computational story lab</a> can be ascribed to random (brownian) noise. As I wrote <a href="https://sappingattention.blogspot.com/2016/07/plot-arceology-emotion-and-tension.html">earlier</a>, and <a href="https://litlab.stanford.edu/humanities-without-humanists/">Hannah Walser explored in more depth recently</a>, that this happens with their data isn’t so surprising; the “stories” they are modeling are mostly random documents to begin with.</p>
@@ -319,8 +319,8 @@ For most good genre fiction, I think this holds. Will Lockhardt/Gardner win the 
     </entry>
     <entry>
         <title type="html"><![CDATA[Biblio bizarre: who publishes in Google Books]]></title>
-        <id/>
-        <link/>
+        <id>https://bmschmidt.github.io///bare-bones-blog/posts/biblio-bizarre-who-publishes-in-google</id>
+        <link href="https://bmschmidt.github.io///bare-bones-blog/posts/biblio-bizarre-who-publishes-in-google"/>
         <updated>2014-04-03T17:42:00.002Z</updated>
         <content type="html"><![CDATA[<p>Here’s a little irony I’ve been meaning to post. Large scale book digitization makes tools like Ngrams possible; but it also makes tools like Ngrams obsolete for the future. It changes what a “book” is in ways that makes the selection criteria for Ngrams—if it made it into print, it must have _some _significance—completely meaningless.</p>
 <p>So as interesting as Google Ngrams is for all sorts of purposes, it seems it might always end right in 2008. (I could have sworn the 2012 update included through 2011 in some collections; but all seem to end in 2008 now.)</p>
@@ -392,8 +392,8 @@ For most good genre fiction, I think this holds. Will Lockhardt/Gardner win the 
     </entry>
     <entry>
         <title type="html"><![CDATA[Shipping maps and how states see]]></title>
-        <id/>
-        <link/>
+        <id>https://bmschmidt.github.io///bare-bones-blog/posts/shipping-maps-and-how-states-see</id>
+        <link href="https://bmschmidt.github.io///bare-bones-blog/posts/shipping-maps-and-how-states-see"/>
         <updated>2014-03-31T18:51:00.003Z</updated>
         <content type="html"><![CDATA[<p>A map I put up a year and a half ago went viral this winter; it shows the paths taken by ships in the US Maury collection of the <a href="http://icoads.noaa.gov/">ICOADS</a> database. I’ve had several requests for higher-quality versions: I had some up already, but I <a href="https://www.flickr.com/photos/10052187@N05/13516638735/">just put up on Flickr a basically comparable high resolution version</a>. US Maury is “Deck 701” in the ICOADS collection: I also put up charts for all of the other decks with fewer than 3,000,000 points. You can page through them below, or download the high quality versions from Flickr directly. (At the time of posting, you have to click on the three dots to get through to the summaries).</p>
 <p>I’ve also had a lot of questions about modern day equivalents to that chart. This, it turns out, is an absolutely fascinating question, because it forces a set of questions about what the Maury chart actually shows. Of course, on the surface, it seems to show 19th century shipping routes: that’s the primary reason it’s interesting. But it’s an obviously incomplete, obviously biased, and obviously fragmentary view of those routes. It’s a relatively complete view, on the other hand, of something more restricted but nearly as interesting: the way that the 19th century American state was able to see and take measure of the world. No one, today, needs to be told that patterns of state surveillance, data collection, and storage are immensely important. Charts like these provide an interesting and important locus for seeing how states “saw,” to commandeer a phrase from James Scott.</p>
@@ -492,8 +492,8 @@ http://education.nationalgeographic.com/education/media/selecting-map-projection
     </entry>
     <entry>
         <title type="html"><![CDATA[Making Downton more traditional]]></title>
-        <id/>
-        <link/>
+        <id>https://bmschmidt.github.io///bare-bones-blog/posts/making-downton-more-traditional</id>
+        <link href="https://bmschmidt.github.io///bare-bones-blog/posts/making-downton-more-traditional"/>
         <updated>2012-02-13T18:49:00.002Z</updated>
         <content type="html"><![CDATA[<p>[Update: I’ve consolidated all of my TV anachronisms posts at a different blog, <a href="http://www.prochronism.com/">Prochronism</a>, and new ones on Mad Men, Deadwood, Downton Abbey, and the rest are going there.]</p>
 <p>Digital humanists like to talk about what insights about the past big data can bring. So in that spirit, let me talk about <em>Downton Abbey</em> for a minute. The show’s popularity has led many nitpickers to draft up lists of mistakes. Language Loggers Mark Liberman and Ben Zimmer have looked at some idioms that don’t belong for <a href="http://languagelog.ldc.upenn.edu/nll/?p=3692">Language Log</a>, <a href="http://www.npr.org/2012/02/13/146652747/im-just-sayin-there-are-anachronisms-in-downton">NPR</a> and the <a href="http://articles.boston.com/2012-02-12/ideas/31049177_1_downton-abbey-expressions-slang">Boston Globe</a>.) In the best British tradition, the Daily Mail even <a href="http://www.dailymail.co.uk/news/article-2051332/Downton-Abbey-writers-string-language-gaffes.html">managed to cast the errors</a> as a sort of scandal. But all of these have relied, so far as I can tell, on finding a phrase or two that sounds a bit off, and checking the online sources for earliest use. This resembles what historians do nowadays; go fishing in the online resources to confirm hypotheses, but never ever start from the digital sources. That would be, as the dowager countess, might say, untoward.</p>
@@ -685,8 +685,8 @@ thanks:)</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fixing the job market in two modest steps]]></title>
-        <id/>
-        <link/>
+        <id>https://bmschmidt.github.io///bare-bones-blog/posts/fixing-job-market-in-two-modest-steps</id>
+        <link href="https://bmschmidt.github.io///bare-bones-blog/posts/fixing-job-market-in-two-modest-steps"/>
         <updated>2012-01-30T15:20:00.000Z</updated>
         <content type="html"><![CDATA[<p>Another January, another set of hand-wringing about the humanities job market. So, allow me a brief departure from the digital humanities. First, in four paragraphs, the problem with our current understanding of the history job market; and then, in several more, the solution.</p>
 <p>Tony Grafton and Jim Grossman launched the latest exchange with what they call a “<a href="http://www.historians.org/Perspectives/issues/2011/1110/1110pre1.cfm">modest proposal</a>” for expanding professional opportunities for historians. <a href="http://hnn.us/articles/history-worth-fighting-where-aha">Jesse Lemisch</a> counters that we need to think bigger and mobilize political action. There’s a big and productive disagreement there, but also a deep similarity: both agree there isn’t funding inside the academy for history PhDs to find work, but think we ought to be able to get our hands on money controlled by someone else. Political pressure and encouraging words will unlock vast employment opportunities in the world of museums, archives, and other public history (Grafton) or government funded jobs programs (Lemisch). These are funny places to look for growth in a 21st-century OECD country (perhaps Bill Cronon could take the more obvious route, and make his signature initiative as AHA president creating new tenure-track jobs in the <a href="http://www.economist.com/node/14845197">BRICs</a>?) but the higher levels of the profession don’t see much choice but to change the world.</p>
@@ -771,8 +771,8 @@ To the contrary: this is a call to take control of the commanding heights of the
     </entry>
     <entry>
         <title type="html"><![CDATA[Comparing Corpuses by Word Use]]></title>
-        <id/>
-        <link/>
+        <id>https://bmschmidt.github.io///bare-bones-blog/posts/comparing-corpuses-by-word-use</id>
+        <link href="https://bmschmidt.github.io///bare-bones-blog/posts/comparing-corpuses-by-word-use"/>
         <updated>2011-10-06T19:36:00.000Z</updated>
         <content type="html"><![CDATA[<p>Historians often hope that digitized texts will enable better, faster comparisons of groups of texts. Now that at least the 1grams on <a href="http://bookworm.culturomics.org/">Bookworm</a> are running pretty smoothly, I want to start to lay the groundwork for using corpus comparisons to look at words in a big digital library. For the algorithmically minded: this post should act as a somewhat idiosyncratic approach to Dunning’s Log-likelihood statistic. For the hermeneutically minded: this post should explain why you might need _any_ log-likelihood statistic.</p>
 <p>What are some interesting, large corpuses to compare? A lot of what we’ll be interested in historically are subtle differences between closely related sets, so a good start might be the two Library of Congress subject classifications called “History of the Americas,” letters E and F. The Bookworm database has over 20,000 books from each group. What’s the difference between the two? The full descriptions could tell us: but as a test case, it should be informative to use only the texts themselves to see the difference.</p>
@@ -854,8 +854,8 @@ To the contrary: this is a call to take control of the commanding heights of the
     </entry>
     <entry>
         <title type="html"><![CDATA[Call numbers]]></title>
-        <id/>
-        <link/>
+        <id>https://bmschmidt.github.io///bare-bones-blog/posts/call-numbers</id>
+        <link href="https://bmschmidt.github.io///bare-bones-blog/posts/call-numbers"/>
         <updated>2010-12-27T18:45:00.000Z</updated>
         <content type="html"><![CDATA[<p>I finally got some call numbers. Not for everything, but for a better portion than I thought I would: about 7,600 records, or c. 30% of my books.</p>
 <p>The <a href="http://www.hathitrust.org/bib_api">HathiTrust Bibliographic API</a> is <em>great.</em> What a resource. There are a few odd tricks I had to put in to account for their integrating various catalogs together (Michigan call numbers are filed under MARC 050 (Library of Congress catalog), while California ones are filed under MARC 090 (local catalog), for instance, although they both seem to be basically an LCC scheme). But the openness is fantastic–you just plug in OCLC or LCCN identifiers into a url string to get an xml record. It’s possible to get a lot of OCLCs, in particular, by scraping Internet Archive pages. I haven’t yet found a good way to go the opposite direction, though: from a large number of specially chosen Hathi catalogue items to IA books.</p>
