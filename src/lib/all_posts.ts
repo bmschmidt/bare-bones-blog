@@ -1,4 +1,9 @@
-const fulltext = import.meta.glob('/src/content/**/*.md', { eager: true });
+const fulltext = import.meta.glob([
+	'/src/content/**/*.md',
+	'/src/content/**/*.ipynb',
+	'/src/content/**/*.docx',
+	], 
+	{ eager: true });
 const files = Object.keys(fulltext);
 type Pandocument = any;
 type Page = {
