@@ -1,6 +1,6 @@
 {
   "name": "bare-bones-blog",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "dev": "vite dev",
@@ -34,6 +34,6 @@
   "type": "module",
   "dependencies": {
     "feed": "^4.2.2",
-    "pandoc-svelte-components": "^0.2.0"
+    "pandoc-svelte-components": "^0.2.1"
   }
 }
